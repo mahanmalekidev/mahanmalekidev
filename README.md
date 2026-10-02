@@ -1,9 +1,105 @@
-# 💫 About Me:
-Hi, I'm Mahan, a passionate Full-Stack Developer with 4+ years of experience building modern, responsive, and user-friendly web applications. I have completed multiple professional programming courses and enjoy turning ideas into interactive digital experiences. Currently, I'm expanding my skills in Back-End development while working on startup and AI-powered projects. I'm always eager to learn new technologies, contribute to meaningful projects, and connect with other developers.
+# Hi, I'm Mahan 👋
 
+### Front-End Developer | React Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mahanmalekidev) 
+I'm a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I enjoy turning ideas into real products and continuously improving my skills by building practical projects.
+
+---
+
+## 🚀 About Me
+
+* 💻 Front-End Developer focused on **React**
+* ⚛️ Currently learning and building with **React.js**
+* 🌱 Exploring modern web development and backend technologies
+* 🧠 Interested in **AI, SaaS, and startup products**
+* 🛠️ I learn by building real-world projects
+* 🎯 Working toward becoming a **Full-Stack Developer**
+* 🌍 Open to collaborating on interesting projects
+
+---
+
+## 🧰 Tech Stack
+
+### Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,firebase" />
+</p>
+
+---
+
+## 📌 What I'm Working On
+
+I'm currently building practical projects to strengthen my Front-End development skills.
+
+My current focus includes:
+
+* React applications
+* Modern and responsive UI
+* REST APIs
+* Authentication
+* Database integration
+* Building real-world projects
+* Learning backend development
+
+---
+
+## 🧩 Featured Projects
+
+Here are some of the projects I'm building while improving my development skills:
+
+### 📚 Study Planning App
+
+A modern web application for organizing study schedules, tasks, and learning progress.
+
+**Tech:** React, JavaScript
+
+### 🗺️ Learning Roadmap
+
+A platform for creating and following structured programming learning paths.
+
+**Tech:** React, Firebase
+
+### 🎨 More Projects Coming Soon...
+
+I'm continuously building and experimenting with new ideas.
+
+---
+
+## 📈 My Goals
+
+```text
+Front-End Development
+        ↓
+React & Modern Web
+        ↓
+Real-World Projects
+        ↓
+Backend Development
+        ↓
+Full-Stack Development
+        ↓
+Building Products & Startups
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building, and connecting with other developers.
+
+* 💼 LinkedIn: Coming soon
+* 🌐 Portfolio: Coming soon
+* 📧 Email: Coming soon
+
+---
+
+⭐ If you find one of my projects useful, consider giving it a star!
