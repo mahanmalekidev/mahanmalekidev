@@ -96,9 +96,9 @@ Building Products & Startups
 
 I'm always interested in learning, building, and connecting with other developers.
 
-* 💼 LinkedIn: Coming soon
+* 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/mahanmalekidev)
 * 🌐 Portfolio: Coming soon
-* 📧 Email: Coming soon
+* 📧 Email: mahanmalekidev@gmail.com
 
 ---
 
